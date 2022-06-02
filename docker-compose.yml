@@ -10,8 +10,8 @@ services:
     ports:
       - "127.0.0.1:5532:5432"
     environment:
-      POSTGRES_USER: user
-      POSTGRES_PASSWORD: pass
+      POSTGRES_USER: 3KmxzdsJNNNuse8X4w9G
+      POSTGRES_PASSWORD: wma9uHKWbRbwyjtJ39sx
       POSTGRES_DB: outline
     user: "postgres:postgres"
   s3:
